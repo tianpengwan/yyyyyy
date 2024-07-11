@@ -1,11 +1,13 @@
 ---
-title: Hello World
+abbrlink: '516829374'
+categories: []
 copyright: true
-abbrlink: 516829374
-date: 2023-06-19 00:00:00
-swiper_index: 99999 # 置顶轮播图顺序，非负整数，数字越大越靠前
+date: '2023-06-19T00:00:00+08:00'
+swiper_index: 99999
+tags: []
+title: Hello World
+updated: '2024-07-11T12:01:40.870+08:00'
 ---
-
 # Hello World
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
@@ -14,7 +16,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ### Create a new post
 
-``` bash
+```bash
 $ hexo new "My New Post"
 ```
 
@@ -22,7 +24,7 @@ More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
 
-``` bash
+```bash
 $ hexo server
 ```
 
@@ -30,7 +32,7 @@ More info: [Server](https://hexo.io/docs/server.html)
 
 ### Generate static files
 
-``` bash
+```bash
 $ hexo generate
 ```
 
@@ -38,7 +40,7 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
-``` bash
+```bash
 $ hexo deploy
 ```
 
